@@ -22,7 +22,7 @@
 
 ### Ternimal Emulator - [Cmder](https://cmder.net/)
 - 內建支援各種 shell , 如 `PowerShell`,`WSL`
-- `StartUp Commands` 的地方記得加上 `-cur_console:p5 ` , 才可以在 `vim` 等軟體中使用 Arrow keys
+- `StartUp Commands` 的地方記得加上 `-cur_console:p5 ` , 才可以在 `vim` 等軟體中使用 Arrow keys.
 
 ### WSL(Windows Subsystem for Linux)
 - 現在應該比以前好多了, 吧(?)
@@ -33,6 +33,12 @@
 
 ### [Clipboard Manager](https://support.microsoft.com/en-us/windows/clipboard-in-windows-10-c436501e-985d-1c8d-97ea-fe46ddf338c6)
 - 蠻不錯用的, 一鍵管理, 複製到 Clipboard 的圖片也會存在 History 中.
+
+### PDF Reader [Adobe Acrobat Reader](https://www.adobe.com/acrobat/pdf-reader.html)
+- 免費版的被閹割蠻多了, 湊合著用吧.
+
+### Office suite [LibreOffice](https://www.libreoffice.org/)
+- 以 `OpenOffice` 為基礎的免費軟體.
 
 ---
 
