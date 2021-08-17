@@ -40,6 +40,7 @@
 ### Editors
 - [Sublime Text](https://www.sublimetext.com/)
   - 在 Build System 中設定自己要的編譯環境(見 `/config/sublime/` 中).
+  - 在 `View/Layout` 中分割 Columns 和 Rows.
 - [Notepad++](https://notepad-plus-plus.org/)
   - 老字號了. 功能全面.
 - [VScode](https://code.visualstudio.com/)
