@@ -63,6 +63,6 @@
 - WSL1 不支援 Docker Engine, 因此需要下載 Windows 版本的 Docker
 - 請參考 [How to set up Docker and WSL](https://www.freecodecamp.org/news/how-to-set-up-docker-and-windows-subsystem-for-linux-a-love-story-35c856968991/)
 
-### Sheel Scripts
+### Shel Scripts
 - [Windows-Commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
   - 放在一個目錄下, 並且加入到系統環境變數中, 用 `Win + R` 快速執行.
